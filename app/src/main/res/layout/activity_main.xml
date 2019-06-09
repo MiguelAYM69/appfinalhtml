@@ -31,7 +31,7 @@
                 android:layout_marginLeft="88dp" />
 
             <ImageButton
-                android:id="@+id/imano"
+                android:id="@+id/jaguar"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="10dp"
@@ -41,7 +41,7 @@
                 android:text="Button" />
 
             <ImageButton
-                android:id="@+id/ipie"
+                android:id="@+id/guacamaya"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="190dp"
@@ -98,7 +98,7 @@
             <!--____________________________________________________________-->
 
             <ImageButton
-                android:id="@+id/iojo"
+                android:id="@+id/colibri"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="10dp"
@@ -108,7 +108,7 @@
                 android:text="Button" />
 
             <ImageButton
-                android:id="@+id/iboca"
+                android:id="@+id/tejon"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="190dp"
@@ -168,7 +168,7 @@
 
 
             <ImageButton
-                android:id="@+id/igato"
+                android:id="@+id/gato"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="10dp"
@@ -178,7 +178,7 @@
                 android:text="Button" />
 
             <ImageButton
-                android:id="@+id/icerdito"
+                android:id="@+id/puerquito"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="190dp"
@@ -238,7 +238,7 @@
 
 
             <ImageButton
-                android:id="@+id/ijabali"
+                android:id="@+id/jabali"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="10dp"
@@ -248,7 +248,7 @@
                 android:text="Button" />
 
             <ImageButton
-                android:id="@+id/iloro"
+                android:id="@+id/loro"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="190dp"
@@ -637,6 +637,6 @@
             tools:src="@drawable/colores" />
     </com.github.clans.fab.FloatingActionMenu>
 
-    </RelativeLayout>
+</RelativeLayout>
 
 
