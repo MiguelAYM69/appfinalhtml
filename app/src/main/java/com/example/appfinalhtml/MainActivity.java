@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                 mjab.start();
             }
         });
-       loro= (ImageButton) findViewById(R.id.loro);
+        loro= (ImageButton) findViewById(R.id.loro);
         mlor=MediaPlayer.create(this, R.raw.loro);
         loro.setOnClickListener(new View.OnClickListener() {
             @Override
