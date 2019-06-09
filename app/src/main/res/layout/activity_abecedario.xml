@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo">
+    <ScrollView
+        android:layout_width="411dp"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="253dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="47dp"
+                android:fontFamily="sans-serif-black"
+                android:text="ABECEDARIO"
+                android:textAlignment="center"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="20dp" />
+
+            <ImageButton
+                android:id="@+id/a"
+                android:layout_width="wrap_content"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="12dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/a"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/b"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/b" />
+
+            <ImageButton
+                android:id="@+id/c"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/c"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/ta"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tb"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tc"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+            <ImageButton
+                android:id="@+id/d"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/d"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/e"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/e" />
+
+            <ImageButton
+                android:id="@+id/f"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/f"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/td"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/te"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tf"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+
+            <!--__________________________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/g"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/g"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/h"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/h" />
+
+            <ImageButton
+                android:id="@+id/i"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/i"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tg"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/th"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ti"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+            <ImageButton
+                android:id="@+id/j"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/j"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/k"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/k" />
+
+            <ImageButton
+                android:id="@+id/l"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/l"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tj"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tk"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tl"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/m"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/m"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/n"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/n" />
+
+            <ImageButton
+                android:id="@+id/o"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/o"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tm"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tn"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/to"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+
+
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/p"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/p"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/q"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/q" />
+
+            <ImageButton
+                android:id="@+id/r"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/r"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tp"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tq"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tr"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/s"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/s"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/t"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/t" />
+
+            <ImageButton
+                android:id="@+id/u"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/u"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/ts"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tt"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tu"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/v"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/v"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/w"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/w" />
+
+            <ImageButton
+                android:id="@+id/x"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/x"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tv"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tw"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tx"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/y"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/y"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/z"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/z" />
+
+
+            <TextView
+                android:id="@+id/ty"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+
+            <TextView
+                android:id="@+id/tz"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-27dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/material_design_android_floating_action_menu6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:layout_marginBottom="11dp"
+        fab:menu_animationDelayPerItem="55"
+        fab:menu_backgroundColor="@android:color/transparent"
+        fab:menu_buttonSpacing="0dp"
+        fab:menu_colorNormal="#FFC107"
+        fab:menu_colorPressed="#FFC107"
+        fab:menu_colorRipple="#99d4d4d4"
+        fab:menu_fab_size="normal"
+        fab:menu_icon="@drawable/fab_add"
+        fab:menu_labels_colorNormal="#333"
+        fab:menu_labels_colorPressed="#444"
+        fab:menu_labels_colorRipple="#66efecec"
+        fab:menu_labels_cornerRadius="3dp"
+        fab:menu_labels_ellipsize="none"
+        fab:menu_labels_hideAnimation="@anim/fab_slide_out_to_right"
+        fab:menu_labels_margin="0dp"
+        fab:menu_labels_maxLines="-1"
+        fab:menu_labels_padding="8dp"
+        fab:menu_labels_position="left"
+        fab:menu_labels_showAnimation="@anim/fab_slide_in_from_right"
+        fab:menu_labels_showShadow="true"
+        fab:menu_labels_singleLine="false"
+        fab:menu_labels_textColor="#f2f1f1"
+        fab:menu_labels_textSize="15sp"
+        fab:menu_openDirection="up"
+        fab:menu_shadowColor="#3000"
+        fab:menu_shadowRadius="4dp"
+        fab:menu_shadowXOffset="1dp"
+        fab:menu_shadowYOffset="4dp"
+        fab:menu_showShadow="true">
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/p_Comunes32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="PComunesIntent"
+            android:src="@drawable/palabras"
+            fab:fab_colorNormal="#F1DF50"
+            fab:fab_label="Palabras comúnes"
+            fab:fab_size="mini"
+            tools:src="@drawable/palabras" />
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/p_Cuerpo33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="pcuerpoIntent"
+            android:src="@drawable/partescuerpo"
+            fab:fab_colorNormal="#D770E9"
+            fab:fab_label="Partes del cuerpo"
+            fab:fab_size="mini"
+            tools:src="@drawable/partescuerpo" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/Animales34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="AnimalesIntent"
+            android:src="@drawable/animales"
+            fab:fab_colorNormal="#EC4949"
+            fab:fab_label="Animales"
+            fab:fab_size="mini"
+            tools:src="@drawable/animales" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/Numeros35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="NumerosIntent"
+            android:src="@drawable/numeros"
+            fab:fab_colorNormal="#62BAFD"
+            fab:fab_label="Números"
+            fab:fab_size="mini"
+            tools:src="@drawable/numeros" />
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/Colores36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="ColoresIntent"
+            android:src="@drawable/colores"
+            fab:fab_colorNormal="#67D66C"
+            fab:fab_label="Colores"
+            fab:fab_size="mini"
+            tools:src="@drawable/colores" />
+
+
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+
+</RelativeLayout>
+
