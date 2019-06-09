@@ -13,7 +13,7 @@ import android.view.MenuItem;
 import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
-    MediaPlayer mja,mgu,mco,mte,mga,mpu,mjab,mlor;
+    MediaPlayer mja,mgu,mco,mte,mgat,mpu,mjab,mlor;
     ImageButton jaguar,guacamaya,colibri,tejon,gato,puerquito,jabali,loro;
 
     @Override
@@ -53,11 +53,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         gato= (ImageButton) findViewById(R.id.gato);
-        mga=MediaPlayer.create(this, R.raw.gato);
+        mgat=MediaPlayer.create(this, R.raw.gato);
         gato.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mga.start();
+                mgat.start();
             }
         });
         puerquito= (ImageButton) findViewById(R.id.puerquito);
