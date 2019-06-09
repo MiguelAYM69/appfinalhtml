@@ -13,7 +13,7 @@ import android.view.MenuItem;
 import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
-    MediaPlayer mja,mgu,mco,mte,mga,mpu,mjab,mlor;
+    MediaPlayer mjag,mgu,mco,mte,mga,mpu,mjab,mlor;
     ImageButton jaguar,guacamaya,colibri,tejon,gato,puerquito,jabali,loro;
 
     @Override
@@ -21,11 +21,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         jaguar= (ImageButton) findViewById(R.id.jaguar);
-        mja=MediaPlayer.create(this, R.raw.jaguar);
+        mjag=MediaPlayer.create(this, R.raw.jaguar);
         jaguar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mja.start();
+                mjag.start();
             }
         });
         guacamaya= (ImageButton) findViewById(R.id.guacamaya);
