@@ -110,11 +110,6 @@ public class Colores extends AppCompatActivity {
         finish();
     }
 
-    public void AbecedarioIntent(View view) {
-        Intent a = new Intent(Colores.this,Abecedario.class);
-        startActivity(a);
-        finish();
-    }
 
     public void pcuerpoIntent(View view) {
         Intent a = new Intent(Colores.this,PPartes.class);

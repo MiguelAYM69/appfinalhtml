@@ -150,12 +150,6 @@ pez= (ImageButton) findViewById(R.id.pez);
 
     }
 
-    public void AbecedarioIntent(View view) {
-        Intent a = new Intent(MainActivity.this,Abecedario.class);
-        startActivity(a);
-        finish();
-
-    }
 
     public void pcuerpoIntent(View view) {
         Intent a = new Intent(MainActivity.this,PPartes.class);

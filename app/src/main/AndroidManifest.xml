@@ -13,8 +13,6 @@
             android:screenOrientation="portrait"/>
         <activity android:name=".PPartes"
             android:screenOrientation="portrait"/>
-        <activity android:name=".Abecedario"
-            android:screenOrientation="portrait"/>
         <activity android:name=".Numeros"
             android:screenOrientation="portrait"/>
         <activity android:name=".Colores"

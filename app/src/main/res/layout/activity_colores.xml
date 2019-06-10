@@ -48,7 +48,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-150dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/rosa"
+                android:src="@drawable/rosado"
                 android:text="Button" />
 
             <TextView
@@ -115,7 +115,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-130dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/negro"
+                android:src="@drawable/negro1"
                 android:text="Button" />
 
             <TextView
@@ -173,7 +173,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/morado"
+                android:src="@drawable/morado1"
                 android:text="Button" />
 
             <ImageButton
@@ -183,7 +183,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-130dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/gris"
+                android:src="@drawable/gris1"
                 android:text="Button" />
 
             <TextView
@@ -241,7 +241,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/cafe"
+                android:src="@drawable/cafe1"
                 android:text="Button" />
 
             <ImageButton
@@ -251,7 +251,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-130dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/blanco"
+                android:src="@drawable/blancoooo"
                 android:text="Button" />
 
             <TextView
@@ -309,7 +309,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="50dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/azul"
+                android:src="@drawable/azul1"
                 android:text="Button" />
 
             <ImageButton
@@ -319,7 +319,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-120dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/amarillo"
+                android:src="@drawable/amarillo1"
                 android:text="Button" />
 
             <TextView
