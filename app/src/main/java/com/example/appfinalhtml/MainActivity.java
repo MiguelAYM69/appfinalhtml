@@ -13,8 +13,8 @@ import android.view.MenuItem;
 import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
-    MediaPlayer mjag,mgu,mco,mte,mga,mpu,mjab,mlor;
-    ImageButton jaguar,guacamaya,colibri,tejon,gato,puerquito,jabali,loro;
+    MediaPlayer mjag,mgu,mco,mte,mga,mpu,mjab,mlor,mve,mpe,mper,mig,mra,mtu;
+    ImageButton jaguar,guacamaya,colibri,tejon,gato,puerquito,jabali,loro,venado,pez,perro,iguana,raton,tucan;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -82,6 +82,54 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 mlor.start();
+            }
+        });
+     venado= (ImageButton) findViewById(R.id.venado);
+        mve=MediaPlayer.create(this, R.raw.venado);
+        venado.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mve.start();
+            }
+        });
+pez= (ImageButton) findViewById(R.id.pez);
+        mpe=MediaPlayer.create(this, R.raw.pez);
+       pez.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mpe.start();
+            }
+        });
+       perro= (ImageButton) findViewById(R.id.perro);
+        mper=MediaPlayer.create(this, R.raw.perro);
+       perro.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mper.start();
+            }
+        });
+       iguana= (ImageButton) findViewById(R.id.iguana);
+        mig=MediaPlayer.create(this, R.raw.iguana);
+        iguana.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mig.start();
+            }
+        });
+        raton= (ImageButton) findViewById(R.id.raton);
+        mra=MediaPlayer.create(this, R.raw.raton);
+        raton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mra.start();
+            }
+        });
+        tucan= (ImageButton) findViewById(R.id.tucan);
+        mtu=MediaPlayer.create(this, R.raw.tucan);
+        tucan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mtu.start();
             }
         });
     }
