@@ -125,7 +125,7 @@
                 android:layout_marginTop="-10dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="tsʼunuʼun"
                 android:textSize="15sp" />
 
             <TextView
@@ -136,7 +136,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="chiic"
                 android:textSize="15sp" />
 
             <TextView
@@ -265,7 +265,7 @@
                 android:layout_marginTop="-10dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Kitam"
                 android:textSize="15sp" />
 
             <TextView
@@ -335,7 +335,7 @@
                 android:layout_marginTop="-10dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Keh"
                 android:textSize="15sp" />
 
             <TextView
@@ -346,7 +346,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Kay"
                 android:textSize="15sp" />
 
             <TextView
@@ -485,7 +485,7 @@
                 android:layout_marginTop="-10dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Cho'"
                 android:textSize="15sp" />
 
             <TextView
