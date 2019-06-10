@@ -308,7 +308,7 @@
 
 
             <ImageButton
-                android:id="@+id/ivenado"
+                android:id="@+id/venado"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="10dp"
@@ -318,7 +318,7 @@
                 android:text="Button" />
 
             <ImageButton
-                android:id="@+id/ipez"
+                android:id="@+id/pez"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="190dp"
@@ -379,7 +379,7 @@
 
 
             <ImageButton
-                android:id="@+id/iperro"
+                android:id="@+id/perro"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="10dp"
@@ -389,7 +389,7 @@
                 android:text="Button" />
 
             <ImageButton
-                android:id="@+id/iiguana"
+                android:id="@+id/iguana"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="190dp"
@@ -458,7 +458,7 @@
 
 
             <ImageButton
-                android:id="@+id/iraton"
+                android:id="@+id/raton"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="10dp"
@@ -468,7 +468,7 @@
                 android:text="Button" />
 
             <ImageButton
-                android:id="@+id/itucan"
+                android:id="@+id/tucan"
                 android:layout_width="151dp"
                 android:layout_height="165dp"
                 android:layout_marginLeft="190dp"
