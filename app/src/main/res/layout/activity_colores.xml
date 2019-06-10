@@ -36,19 +36,20 @@
 
     </ScrollView>
 
+
     <com.github.clans.fab.FloatingActionMenu
-        android:id="@+id/material_design_android_floating_action_menu5"
+        android:id="@+id/material_design_android_floating_action_menu6"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginLeft="150dp"
+        android:layout_marginLeft="11dp"
         android:layout_marginRight="11dp"
         android:layout_marginBottom="11dp"
         fab:menu_animationDelayPerItem="55"
         fab:menu_backgroundColor="@android:color/transparent"
-        fab:menu_buttonSpacing="3dp"
+        fab:menu_buttonSpacing="0dp"
         fab:menu_colorNormal="#FFC107"
         fab:menu_colorPressed="#FFC107"
         fab:menu_colorRipple="#99d4d4d4"
@@ -78,7 +79,7 @@
 
 
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/p_Comunes27"
+            android:id="@+id/p_Comunes32"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="PComunesIntent"
@@ -90,7 +91,7 @@
 
 
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/p_Cuerpo28"
+            android:id="@+id/p_Cuerpo33"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="pcuerpoIntent"
@@ -100,8 +101,11 @@
             fab:fab_size="mini"
             tools:src="@drawable/partescuerpo" />
 
+
+
+
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Abecedario29"
+            android:id="@+id/Abecedario24"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="AbecedarioIntent"
@@ -111,9 +115,8 @@
             fab:fab_size="mini"
             tools:src="@drawable/abecedario" />
 
-
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Animales30"
+            android:id="@+id/Animales34"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="AnimalesIntent"
@@ -124,7 +127,7 @@
             tools:src="@drawable/animales" />
 
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Numeros31"
+            android:id="@+id/Numeros35"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="NumerosIntent"
@@ -135,8 +138,7 @@
             tools:src="@drawable/numeros" />
 
 
-
-
     </com.github.clans.fab.FloatingActionMenu>
+
 
 </RelativeLayout>

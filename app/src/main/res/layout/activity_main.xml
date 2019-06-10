@@ -540,33 +540,35 @@
         </LinearLayout>
 
     </ScrollView>
-
     <com.github.clans.fab.FloatingActionMenu
-        android:id="@+id/material_design_android_floating_action_menu4"
+        android:id="@+id/material_design_android_floating_action_menu6"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginLeft="150dp"
+        android:layout_marginLeft="11dp"
         android:layout_marginRight="11dp"
         android:layout_marginBottom="11dp"
         fab:menu_animationDelayPerItem="55"
         fab:menu_backgroundColor="@android:color/transparent"
-        fab:menu_buttonSpacing="3dp"
+        fab:menu_buttonSpacing="0dp"
         fab:menu_colorNormal="#FFC107"
         fab:menu_colorPressed="#FFC107"
         fab:menu_colorRipple="#99d4d4d4"
         fab:menu_fab_size="normal"
+        fab:menu_icon="@drawable/fab_add"
         fab:menu_labels_colorNormal="#333"
         fab:menu_labels_colorPressed="#444"
         fab:menu_labels_colorRipple="#66efecec"
         fab:menu_labels_cornerRadius="3dp"
         fab:menu_labels_ellipsize="none"
+        fab:menu_labels_hideAnimation="@anim/fab_slide_out_to_right"
         fab:menu_labels_margin="0dp"
         fab:menu_labels_maxLines="-1"
         fab:menu_labels_padding="8dp"
         fab:menu_labels_position="left"
+        fab:menu_labels_showAnimation="@anim/fab_slide_in_from_right"
         fab:menu_labels_showShadow="true"
         fab:menu_labels_singleLine="false"
         fab:menu_labels_textColor="#f2f1f1"
@@ -580,7 +582,7 @@
 
 
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/p_Comunes22"
+            android:id="@+id/p_Comunes32"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="PComunesIntent"
@@ -592,7 +594,7 @@
 
 
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/p_Cuerpo23"
+            android:id="@+id/p_Cuerpo33"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="pcuerpoIntent"
@@ -614,7 +616,7 @@
             tools:src="@drawable/abecedario" />
 
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Numeros25"
+            android:id="@+id/Numeros35"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="NumerosIntent"
@@ -626,7 +628,7 @@
 
 
         <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Colores26"
+            android:id="@+id/Colores36"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="ColoresIntent"
@@ -635,7 +637,11 @@
             fab:fab_label="Colores"
             fab:fab_size="mini"
             tools:src="@drawable/colores" />
+
+
+
     </com.github.clans.fab.FloatingActionMenu>
+
 
 </RelativeLayout>
 
