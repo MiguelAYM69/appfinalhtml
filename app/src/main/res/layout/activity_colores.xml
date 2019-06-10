@@ -38,7 +38,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/verde1"
+                android:src="@drawable/verde"
                 android:text="Button" />
 
             <ImageButton
@@ -105,7 +105,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/rojo1"
+                android:src="@drawable/rojo"
                 android:text="Button" />
 
             <ImageButton
