@@ -27,7 +27,683 @@
                 android:textSize="30sp"
                 android:layout_marginLeft="88dp" />
 
+            <!--______________________________________________________________________-->
 
+
+            <ImageButton
+                android:id="@+id/uno"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/cero"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/dos"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/uno" />
+
+            <ImageButton
+                android:id="@+id/tres"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/dos"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tuno"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdos"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tutres"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tuno2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdos2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttres3"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/cuatro"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/tres"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/cinco"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/cuatro" />
+
+            <ImageButton
+                android:id="@+id/seis"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/cinco"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tcuatro"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tcinco"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tseis"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tcuatro2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tcinco2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tseis3"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/siete"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/seis"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/ocho"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/siete" />
+
+            <ImageButton
+                android:id="@+id/nueve"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ocho"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tsiete"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tocho"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tnueve"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tsiete2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tocho2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tsnueve3"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/diez"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/nueve"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/once"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/diez" />
+
+            <ImageButton
+                android:id="@+id/doce"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/once"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tdiez"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tonce"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdoce"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdiez2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tonce2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdoce3"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/trece"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/doce"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/catorce"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/trece" />
+
+            <ImageButton
+                android:id="@+id/quince"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/catorce"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/ttrece"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tcatorce"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tquince"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttrece2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tcatorce2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tquince3"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/dieciseis"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/quince"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/diesiciete"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/dieciseis" />
+
+            <ImageButton
+                android:id="@+id/diesciocho"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="260dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/diecisiete"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tdiesciseis"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdiescisiete"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdiesciocho"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttt2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttttt2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttete3"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+
+            <!--______________________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/dieciocho"
+                android:layout_width="64dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/dieciocho"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/diecinueve"
+                android:layout_width="76dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="137dp"
+                android:layout_marginTop="-70dp"
+                android:background="@android:color/transparent"
+                android:text="Button"
+                fab:srcCompat="@drawable/diecinueve" />
+
+
+
+            <TextView
+                android:id="@+id/tdieciocho"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-3dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdiecinueve"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tdiesciocho2"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttet2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttettt2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="275dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ttehte3"
+                android:layout_width="64dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Pronun"
+                android:textSize="15sp" />
 
 
         </LinearLayout>
@@ -96,17 +772,6 @@
             fab:fab_label="Partes del cuerpo"
             fab:fab_size="mini"
             tools:src="@drawable/partescuerpo" />
-
-        <com.github.clans.fab.FloatingActionButton android:id="@+id/Abecedario24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="AbecedarioIntent"
-            android:src="@drawable/abecedario"
-            fab:fab_colorNormal="#FF699F"
-            fab:fab_label="Abecedario"
-            fab:fab_size="mini"
-            tools:src="@drawable/abecedario"
-             />
 
         <com.github.clans.fab.FloatingActionButton
             android:id="@+id/Animales34"

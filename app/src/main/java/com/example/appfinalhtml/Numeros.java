@@ -28,11 +28,7 @@ public class Numeros extends AppCompatActivity {
     }
 
 
-    public void AbecedarioIntent(View view) {
-        Intent a = new Intent(Numeros.this,Abecedario.class);
-        startActivity(a);
-        finish();
-    }
+
 
     public void pcuerpoIntent(View view) {
         Intent a = new Intent(Numeros.this,PPartes.class);

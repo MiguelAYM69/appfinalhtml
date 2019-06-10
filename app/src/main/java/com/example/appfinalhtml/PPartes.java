@@ -120,11 +120,7 @@ public class PPartes extends AppCompatActivity {
         finish();
     }
 
-    public void AbecedarioIntent(View view) {
-        Intent a = new Intent(PPartes.this,Abecedario.class);
-        startActivity(a);
-        finish();
-    }
+
 
     public void AnimalesIntent(View view) {
         Intent a = new Intent(PPartes.this,MainActivity.class);

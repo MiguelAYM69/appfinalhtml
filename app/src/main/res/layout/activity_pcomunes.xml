@@ -10,7 +10,10 @@
     <ScrollView
         android:layout_width="411dp"
         android:layout_height="match_parent"
-        android:background="@drawable/fondo">
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/fondo"
+        android:layout_alignParentLeft="true">
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -32,6 +35,142 @@
                 android:text="PALABRAS COMÚNES"
                 android:textColor="@android:color/white"
                 android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/audio1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="42dp"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="40dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-¿Cómo estás?\n -Biix yaanikech"
+                android:textSize="30sp" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="68dp"
+                android:layout_height="64dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="@dimen/mr_controller_volume_group_list_padding_top"
+                android:layout_marginEnd="37dp"
+                android:layout_marginRight="37dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/audio2"
+                android:layout_width="wrap_content"
+                android:layout_height="88dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="42dp"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-¿Qué haces?\n -Ba'ax ka beetik"
+                android:textSize="30sp" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="68dp"
+                android:layout_height="64dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="34dp"
+                android:layout_marginRight="34dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <!--___________________________________________________________________________________-->
+
+            <TextView
+                android:id="@+id/audio3"
+                android:layout_width="298dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="42dp"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-¿Buenos días?\n -Ma'alob kiin"
+                android:textSize="30sp" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="68dp"
+                android:layout_height="64dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="40dp"
+                android:layout_marginEnd="34dp"
+                android:layout_marginRight="34dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <!--___________________________________________________________________________________-->
+
+            <TextView
+                android:id="@+id/audio4"
+                android:layout_width="279dp"
+                android:layout_height="81dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="42dp"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Buenas noches\n -Ma'alob a'ak'ab"
+                android:textSize="30sp" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="68dp"
+                android:layout_height="64dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="34dp"
+                android:layout_marginRight="34dp"
+                fab:srcCompat="@drawable/audio" />
+            <!--___________________________________________________________________________________-->
+
+            <TextView
+                android:id="@+id/audio5"
+                android:layout_width="296dp"
+                android:layout_height="84dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="42dp"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Buenas tardes\n -Ma'alob chiinil k'iin"
+                android:textSize="30sp" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="68dp"
+                android:layout_height="64dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="34dp"
+                android:layout_marginRight="34dp"
+                fab:srcCompat="@drawable/audio" />
+
 
         </LinearLayout>
 
@@ -88,18 +227,6 @@
             fab:fab_size="mini"
             tools:src="@drawable/partescuerpo" />
 
-
-        <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Abecedario24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="AbecedarioIntent"
-            android:src="@drawable/abecedario"
-            fab:fab_colorNormal="#FF699F"
-            fab:fab_label="Abecedario"
-            fab:fab_size="mini"
-            tools:src="@drawable/abecedario"
-      />
 
         <com.github.clans.fab.FloatingActionButton
             android:id="@+id/Animales34"

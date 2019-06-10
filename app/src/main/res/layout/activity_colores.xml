@@ -367,6 +367,16 @@
                 android:textSize="15sp" />
 
 
+
+            <ImageButton
+                android:id="@+id/ivacioo"
+                android:layout_width="126dp"
+                android:layout_height="72dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:text="Button" />
+
             <!--____________________________________________________________-->
 
 
@@ -440,19 +450,6 @@
             fab:fab_size="mini"
             tools:src="@drawable/partescuerpo" />
 
-
-
-
-        <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Abecedario24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="AbecedarioIntent"
-            android:src="@drawable/abecedario"
-            fab:fab_colorNormal="#FF699F"
-            fab:fab_label="Abecedario"
-            fab:fab_size="mini"
-            tools:src="@drawable/abecedario" />
 
         <com.github.clans.fab.FloatingActionButton
             android:id="@+id/Animales34"
