@@ -51,7 +51,7 @@
                 android:text="Button" />
 
             <TextView
-                android:id="@+id/tmano"
+                android:id="@+id/tjaguar"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="60dp"
@@ -62,7 +62,7 @@
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/tpie"
+                android:id="@+id/tguacamaya"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="245dp"
@@ -73,7 +73,7 @@
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/tmano2"
+                android:id="@+id/tjaguar2"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="60dp"
@@ -84,7 +84,7 @@
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/tpie2"
+                android:id="@+id/tguacamaya2"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="245dp"
@@ -118,7 +118,7 @@
                 android:text="Button" />
 
             <TextView
-                android:id="@+id/tojo"
+                android:id="@+id/tcolibri"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="60dp"
@@ -129,7 +129,7 @@
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/tboca"
+                android:id="@+id/ttejon"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="245dp"
@@ -140,7 +140,7 @@
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/tojo2"
+                android:id="@+id/tcolibri2"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="60dp"
@@ -151,7 +151,7 @@
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/tboca2"
+                android:id="@+id/ttejon2"
                 android:layout_width="76dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="245dp"
