@@ -10,8 +10,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class PPartes extends AppCompatActivity {
 
-    MediaPlayer mm,mp,mo,mb,mbr,mpi,mc,md,mr,mn,mpn,nari,pan;
-    ImageButton imano,pie,ojo,boca,brazo,pierna,cabeza,dedos,rodilla,nariz,panza;
+    MediaPlayer mm,mp,mo,mb,mbr,mpi,mc,md,mpn,nari,cu;
+    ImageButton imano,pie,ojo,boca,brazo,pierna,cabeza,dedos,cuello,nariz,panza;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -96,6 +96,14 @@ public class PPartes extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 nari.start();
+            }
+        });
+        cuello= (ImageButton) findViewById(R.id.icuello);
+        cu= MediaPlayer.create(this, R.raw.colibri);
+        cuello.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                cu.start();
             }
         });
     }
