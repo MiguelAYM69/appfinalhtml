@@ -188,13 +188,13 @@
 
             <TextView
                 android:id="@+id/tmorado"
-                android:layout_width="76dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="60dp"
                 android:layout_marginTop="10dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Éek' puk'e'en"
                 android:textSize="15sp" />
 
             <TextView
@@ -262,7 +262,7 @@
                 android:layout_marginTop="1dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="chukwa"
                 android:textSize="15sp" />
 
             <TextView
