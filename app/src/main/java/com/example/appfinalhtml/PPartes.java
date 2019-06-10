@@ -34,6 +34,7 @@ public class PPartes extends AppCompatActivity {
                 mp.start();
             }
         });
+
        ojo= (ImageButton) findViewById(R.id.iojo);
         mo= MediaPlayer.create(this, R.raw.ojo);
         ojo.setOnClickListener(new View.OnClickListener() {
