@@ -236,36 +236,6 @@
 
 
 
-
-            <ImageButton
-                android:id="@+id/jabali"
-                android:layout_width="151dp"
-                android:layout_height="165dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="10dp"
-                android:background="@android:color/transparent"
-                android:src="@drawable/jabali2"
-                android:text="Button" />
-
-            <ImageButton
-                android:id="@+id/loro"
-                android:layout_width="151dp"
-                android:layout_height="165dp"
-                android:layout_marginLeft="190dp"
-                android:layout_marginTop="-170dp"
-                android:background="@android:color/transparent"
-                android:src="@drawable/loro2"
-                android:text="Button" />
-
-            <TextView
-                android:id="@+id/tjabali"
-                android:layout_width="76dp"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="60dp"
-                android:layout_marginTop="-10dp"
-                android:background="@android:color/transparent"
-                android:fontFamily="sans-serif-black"
-                android:text="Maya"
                 android:textSize="15sp" />
 
             <TextView
