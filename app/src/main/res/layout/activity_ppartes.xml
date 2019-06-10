@@ -192,7 +192,7 @@
                 android:layout_marginTop="12dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="k'abo'obw"
                 android:textSize="15sp" />
 
             <TextView
@@ -203,7 +203,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="piix"
                 android:textSize="15sp" />
 
             <TextView
@@ -214,7 +214,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Brazo"
                 android:textSize="15sp" />
 
             <TextView
@@ -225,7 +225,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="rodia"
                 android:textSize="15sp" />
 
 
@@ -260,7 +260,7 @@
                 android:layout_marginTop="12dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Pool"
                 android:textSize="15sp" />
 
             <TextView
@@ -271,7 +271,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Yaal k'ab"
                 android:textSize="15sp" />
 
             <TextView
@@ -282,7 +282,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Cabeza"
                 android:textSize="15sp" />
 
             <TextView
@@ -293,7 +293,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Dedos"
                 android:textSize="15sp" />
 
             <!--____________________________________________________________-->
@@ -326,7 +326,7 @@
                 android:layout_marginTop="12dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Naak'"
                 android:textSize="15sp" />
 
             <TextView
@@ -337,7 +337,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="ni'"
                 android:textSize="15sp" />
 
             <TextView
@@ -348,7 +348,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Panza"
                 android:textSize="15sp" />
 
             <TextView
@@ -359,7 +359,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Nariz"
                 android:textSize="15sp" />
 
 

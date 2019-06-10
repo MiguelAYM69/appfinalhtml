@@ -10,8 +10,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class PPartes extends AppCompatActivity {
 
-    MediaPlayer mm,mp,mo,mb,mbr,mpi,mc,md,mr,mn,mpn;
-    ImageButton imano,pie,ojo,boca,mano,pierna,cabeza,dedos,rodilla,nariz,panza;
+    MediaPlayer mm,mp,mo,mb,mbr,mpi,mc,md,mr,mn,mpn,nari,pan;
+    ImageButton imano,pie,ojo,boca,brazo,pierna,cabeza,dedos,rodilla,nariz,panza;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,6 +40,62 @@ public class PPartes extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 mo.start();
+            }
+        });
+        boca= (ImageButton) findViewById(R.id.iboca);
+        mb= MediaPlayer.create(this, R.raw.boca);
+        boca.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mb.start();
+            }
+        });
+        brazo= (ImageButton) findViewById(R.id.ibrazo);
+        mbr= MediaPlayer.create(this, R.raw.brazo);
+       brazo .setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mbr.start();
+            }
+        });
+        pierna= (ImageButton) findViewById(R.id.ipierna);
+        mpi= MediaPlayer.create(this, R.raw.rodia);
+        pierna.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mpi.start();
+            }
+        });
+        cabeza= (ImageButton) findViewById(R.id.icabeza);
+        mc= MediaPlayer.create(this, R.raw.cabeza);
+        cabeza.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mc.start();
+            }
+        });
+       dedos= (ImageButton) findViewById(R.id.idedos);
+        md= MediaPlayer.create(this, R.raw.dedos);
+        dedos.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                md.start();
+            }
+        });
+        panza= (ImageButton) findViewById(R.id.ipechos);
+        mpn= MediaPlayer.create(this, R.raw.panza);
+        panza.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mpn.start();
+            }
+        });
+        nariz= (ImageButton) findViewById(R.id.inariz);
+        nari= MediaPlayer.create(this, R.raw.nariz);
+        nariz.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                nari.start();
             }
         });
     }
