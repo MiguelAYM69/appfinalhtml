@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 mjag.start();
+
             }
         });
         guacamaya= (ImageButton) findViewById(R.id.guacamaya);
