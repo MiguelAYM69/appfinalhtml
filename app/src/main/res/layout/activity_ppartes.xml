@@ -249,7 +249,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-90dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/dedos"
+                android:src="@drawable/dedo"
                 android:text="Button" />
 
             <TextView
@@ -360,6 +360,43 @@
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
                 android:text="Nariz"
+                android:textSize="15sp" />
+            <!--____________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/icuello"
+                android:layout_width="151dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/cuello"
+                android:text="Button"  />
+
+
+
+            <TextView
+                android:id="@+id/tcuello"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="12dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Naak'"
+                android:textSize="15sp" />
+
+
+
+            <TextView
+                android:id="@+id/tcuello2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="2dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Panza"
                 android:textSize="15sp" />
 
 
