@@ -99,7 +99,7 @@ public class PPartes extends AppCompatActivity {
             }
         });
         cuello= (ImageButton) findViewById(R.id.icuello);
-        cu= MediaPlayer.create(this, R.raw.cuello);
+        cu= MediaPlayer.create(this, R.raw.colibri);
         cuello.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
