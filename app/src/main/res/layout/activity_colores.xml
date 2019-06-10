@@ -31,6 +31,345 @@
                 android:layout_marginLeft="104dp" />
 
 
+            <ImageButton
+                android:id="@+id/verde"
+                android:layout_width="151dp"
+                android:layout_height="165dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/verde1"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/rosado"
+                android:layout_width="151dp"
+                android:layout_height="165dp"
+                android:layout_marginLeft="190dp"
+                android:layout_marginTop="-150dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/rosados"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tverde"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="-30dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/trosado"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tverde2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="2dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/trosado2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+
+            <!--____________________________________________________________-->
+
+            <ImageButton
+                android:id="@+id/rojo"
+                android:layout_width="129dp"
+                android:layout_height="118dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/rojo1"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/negro"
+                android:layout_width="153dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="190dp"
+                android:layout_marginTop="-130dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/negro1"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/trojo"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="0dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tnegro"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/trojo2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="2dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tnegro2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+
+            <!--____________________________________________________________-->
+
+
+            <ImageButton
+                android:id="@+id/morado"
+                android:layout_width="wrap_content"
+                android:layout_height="117dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/morado1"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/gris"
+                android:layout_width="153dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="190dp"
+                android:layout_marginTop="-130dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/gris1"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tmorado"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tgris"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tmorado2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="2dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tgris2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+
+            <!--____________________________________________________________-->
+
+
+            <ImageButton
+                android:id="@+id/cafe"
+                android:layout_width="129dp"
+                android:layout_height="116dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/cafe1"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/blanco"
+                android:layout_width="153dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="190dp"
+                android:layout_marginTop="-130dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/blancooo"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tcafe"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="1dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tblanco"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tcafe2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="2dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tblanco2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+
+            <!--____________________________________________________________-->
+
+
+            <ImageButton
+                android:id="@+id/azul"
+                android:layout_width="134dp"
+                android:layout_height="120dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="50dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/azul1"
+                android:text="Button" />
+
+            <ImageButton
+                android:id="@+id/amarillo"
+                android:layout_width="153dp"
+                android:layout_height="125dp"
+                android:layout_marginLeft="190dp"
+                android:layout_marginTop="-120dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/amarillo1"
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/tazul"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="13dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tamarillo"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Maya"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/azul2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="2dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tamarillo2"
+                android:layout_width="76dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="245dp"
+                android:layout_marginTop="-20dp"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-black"
+                android:text="Español"
+                android:textSize="15sp" />
+
+
+            <!--____________________________________________________________-->
+
+
 
         </LinearLayout>
 
