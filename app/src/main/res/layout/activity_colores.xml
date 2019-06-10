@@ -59,7 +59,7 @@
                 android:layout_marginTop="-30dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Ya'ax"
                 android:textSize="15sp" />
 
             <TextView
@@ -70,7 +70,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Saman chak"
                 android:textSize="15sp" />
 
             <TextView
@@ -81,7 +81,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Verde"
                 android:textSize="15sp" />
 
             <TextView
@@ -92,7 +92,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Rosado"
                 android:textSize="15sp" />
 
 

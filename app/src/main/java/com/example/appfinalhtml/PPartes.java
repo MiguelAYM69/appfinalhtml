@@ -98,14 +98,7 @@ public class PPartes extends AppCompatActivity {
                 nari.start();
             }
         });
-        cuello= (ImageButton) findViewById(R.id.icuello);
-        cu= MediaPlayer.create(this, R.raw.colibri);
-        cuello.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                cu.start();
-            }
-        });
+
     }
 
     public void ColoresIntent(View view) {
