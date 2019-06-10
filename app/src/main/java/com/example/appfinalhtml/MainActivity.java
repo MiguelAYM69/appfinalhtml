@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     ImageButton jaguar,guacamaya,colibri,tejon,gato,puerquito,jabali,loro,venado,pez,perro,iguana,raton,tucan;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         jaguar= (ImageButton) findViewById(R.id.jaguar);

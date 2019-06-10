@@ -48,7 +48,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-150dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/rosados"
+                android:src="@drawable/rosado"
                 android:text="Button" />
 
             <TextView
@@ -59,7 +59,7 @@
                 android:layout_marginTop="-30dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="ya'ax"
                 android:textSize="15sp" />
 
             <TextView
@@ -70,7 +70,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="sam chak"
                 android:textSize="15sp" />
 
             <TextView
@@ -81,7 +81,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Verde"
                 android:textSize="15sp" />
 
             <TextView
@@ -92,7 +92,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Rosado"
                 android:textSize="15sp" />
 
 
@@ -126,7 +126,7 @@
                 android:layout_marginTop="0dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="chak"
                 android:textSize="15sp" />
 
             <TextView
@@ -137,7 +137,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="boox"
                 android:textSize="15sp" />
 
             <TextView
@@ -148,7 +148,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Rojo"
                 android:textSize="15sp" />
 
             <TextView
@@ -159,7 +159,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Negro"
                 android:textSize="15sp" />
 
 
@@ -205,7 +205,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="sak boox"
                 android:textSize="15sp" />
 
             <TextView
@@ -216,7 +216,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Morado"
                 android:textSize="15sp" />
 
             <TextView
@@ -227,7 +227,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Gris"
                 android:textSize="15sp" />
 
 
@@ -251,7 +251,7 @@
                 android:layout_marginLeft="190dp"
                 android:layout_marginTop="-130dp"
                 android:background="@android:color/transparent"
-                android:src="@drawable/blancooo"
+                android:src="@drawable/blancoooo"
                 android:text="Button" />
 
             <TextView
@@ -273,7 +273,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="sak"
                 android:textSize="15sp" />
 
             <TextView
@@ -284,7 +284,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Cafe"
                 android:textSize="15sp" />
 
             <TextView
@@ -295,7 +295,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Blanco"
                 android:textSize="15sp" />
 
 
@@ -330,7 +330,7 @@
                 android:layout_marginTop="13dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="ch'òoj"
                 android:textSize="15sp" />
 
             <TextView
@@ -341,7 +341,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="k'áan"
                 android:textSize="15sp" />
 
             <TextView
@@ -352,7 +352,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Azul"
                 android:textSize="15sp" />
 
             <TextView
@@ -363,7 +363,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Amarillo"
                 android:textSize="15sp" />
 
 
