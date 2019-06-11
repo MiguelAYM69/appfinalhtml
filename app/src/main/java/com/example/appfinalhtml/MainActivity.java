@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState)  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
         jaguar= (ImageButton) findViewById(R.id.jaguar);
         mjag=MediaPlayer.create(this, R.raw.jaguar);
         jaguar.setOnClickListener(new View.OnClickListener() {

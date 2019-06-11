@@ -24,9 +24,8 @@ public class PComunes extends AppCompatActivity {
         Intent a = new Intent(PComunes.this,Numeros.class);
         startActivity(a);
         finish();
+
     }
-
-
 
     public void pcuerpoIntent(View view) {
         Intent a = new Intent(PComunes.this,PPartes.class);

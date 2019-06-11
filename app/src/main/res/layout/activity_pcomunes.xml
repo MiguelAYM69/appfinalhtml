@@ -33,6 +33,420 @@
                 android:textColor="@android:color/white"
                 android:textSize="30sp" />
 
+            <TextView
+                android:id="@+id/texto1"
+                android:layout_width="225dp"
+                android:layout_height="85dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-¿Cómo estás? \n
+-Biix yaanikech"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/sonido"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/texto2"
+                android:layout_width="225dp"
+                android:layout_height="85dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-¿Qué haces? \n
+-Ba'ax ka beetik"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/idos"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/texto3"
+                android:layout_width="225dp"
+                android:layout_height="85dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Buenos días \n
+-Ma'alob kiin"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/itres"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
+            <TextView
+                android:id="@+id/texto4"
+                android:layout_width="225dp"
+                android:layout_height="85dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Buenas noches \n
+-Ma'alob a'ak'ab"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/icuatro"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/texto5"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Buenas tardes \n
+-Ma'alob chiinil k'iin"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/icinco"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+            <TextView
+                android:id="@+id/texto6"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Gracias \n
+-Dios bo'otik"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/iseis"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
+            <TextView
+                android:id="@+id/texto7"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-No \n
+-Ma'"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/isiete"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
+
+            <TextView
+                android:id="@+id/texto8"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Bueno \n
+-Ma'alob"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/iocho"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
+            <TextView
+                android:id="@+id/texto9"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Te amo \n
+-In yaabilmech"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/inueve"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
+
+
+            <TextView
+                android:id="@+id/texto10"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Niño \n
+-Paal"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/idiez"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/texto11"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Amigos \n
+-La'ak' tsile 'ex"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/ionce"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
+            <TextView
+                android:id="@+id/texto12"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Vamos a caminar \n
+-Ko'ox xlimbal"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/idoce"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/texto13"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Vamos a comer  \n
+-Ko'ox jaanal"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/itrece"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/texto14"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Quiero tomar agua  \n
+-Taak'in wuk'ik ja'"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/icatorce"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+            <TextView
+                android:id="@+id/texto15"
+                android:layout_width="300dp"
+                android:layout_height="77dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="33dp"
+                android:layout_marginLeft="33dp"
+                android:layout_marginTop="50dp"
+                android:fontFamily="sans-serif-black"
+                android:text="-Aquí es  \n
+-Wayanene'"
+                android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/iquince"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
         </LinearLayout>
 
     </ScrollView>
@@ -138,7 +552,6 @@
 
 
     </com.github.clans.fab.FloatingActionMenu>
-
 
 
 </RelativeLayout>
