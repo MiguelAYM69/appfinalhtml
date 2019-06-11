@@ -25,8 +25,10 @@ public class Numeros extends AppCompatActivity {
         Intent a = new Intent(Numeros.this,Colores.class);
         startActivity(a);
         finish();
-
     }
+
+
+
 
     public void pcuerpoIntent(View view) {
         Intent a = new Intent(Numeros.this,PPartes.class);
