@@ -12,7 +12,8 @@
         android:layout_height="match_parent"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:background="@drawable/fondo">
+        android:background="@drawable/fondo"
+        android:layout_alignParentLeft="true">
 
         <LinearLayout
             android:layout_width="wrap_content"
