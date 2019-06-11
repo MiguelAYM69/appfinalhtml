@@ -364,7 +364,7 @@
             <!--____________________________________________________________-->
 
             <ImageButton
-                android:id="@+id/icuello"
+                android:id="@+id/idcuello"
                 android:layout_width="151dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
