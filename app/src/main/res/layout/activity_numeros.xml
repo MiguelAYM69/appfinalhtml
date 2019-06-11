@@ -68,7 +68,7 @@
                 android:layout_marginTop="-3dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Jun"
                 android:textSize="15sp" />
 
             <TextView
@@ -79,7 +79,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Ka'a"
                 android:textSize="15sp" />
 
             <TextView
@@ -90,7 +90,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Mix"
                 android:textSize="15sp" />
 
             <TextView
@@ -101,7 +101,7 @@
                 android:layout_marginTop="5dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Uno"
                 android:textSize="15sp" />
 
             <TextView
@@ -112,7 +112,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Dos"
                 android:textSize="15sp" />
 
             <TextView
@@ -123,7 +123,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Cero"
                 android:textSize="15sp" />
 
             <!--______________________________________________________________________-->
@@ -166,7 +166,7 @@
                 android:layout_marginTop="-3dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Kan"
                 android:textSize="15sp" />
 
             <TextView
@@ -177,18 +177,18 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Jo'o"
                 android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tseis"
-                android:layout_width="64dp"
+                android:layout_width="57dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="23dp"
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Óox"
                 android:textSize="15sp" />
 
             <TextView
@@ -199,7 +199,7 @@
                 android:layout_marginTop="5dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Cuatro"
                 android:textSize="15sp" />
 
             <TextView
@@ -210,7 +210,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Cinco"
                 android:textSize="15sp" />
 
             <TextView
@@ -221,7 +221,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Tres"
                 android:textSize="15sp" />
 
             <!--______________________________________________________________________-->
@@ -264,7 +264,7 @@
                 android:layout_marginTop="-3dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Wuk"
                 android:textSize="15sp" />
 
             <TextView
@@ -275,7 +275,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Waxak"
                 android:textSize="15sp" />
 
             <TextView
@@ -286,7 +286,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Wak"
                 android:textSize="15sp" />
 
             <TextView
@@ -297,7 +297,7 @@
                 android:layout_marginTop="5dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Siete"
                 android:textSize="15sp" />
 
             <TextView
@@ -308,7 +308,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Ocho"
                 android:textSize="15sp" />
 
             <TextView
@@ -319,7 +319,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Seis"
                 android:textSize="15sp" />
 
             <!--______________________________________________________________________-->
@@ -362,7 +362,7 @@
                 android:layout_marginTop="-3dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Lajun"
                 android:textSize="15sp" />
 
             <TextView
@@ -373,7 +373,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Jun k'aal"
                 android:textSize="15sp" />
 
             <TextView
@@ -384,7 +384,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Bolon"
                 android:textSize="15sp" />
 
             <TextView
@@ -395,7 +395,7 @@
                 android:layout_marginTop="5dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Diez"
                 android:textSize="15sp" />
 
             <TextView
@@ -406,7 +406,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Veinte"
                 android:textSize="15sp" />
 
             <TextView
@@ -417,7 +417,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Nueve"
                 android:textSize="15sp" />
             <!--______________________________________________________________________-->
 
@@ -459,7 +459,7 @@
                 android:layout_marginTop="-3dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Kaákáal"
                 android:textSize="15sp" />
 
             <TextView
@@ -470,18 +470,18 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Lajun ti' u yóoxk'aal"
                 android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tquince"
-                android:layout_width="64dp"
-                android:layout_height="wrap_content"
+                android:layout_width="85dp"
+                android:layout_height="43dp"
                 android:layout_marginLeft="23dp"
-                android:layout_marginTop="-20dp"
+                android:layout_marginTop="-40dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Lajun ti' u ka'a káal"
                 android:textSize="15sp" />
 
             <TextView
@@ -492,7 +492,7 @@
                 android:layout_marginTop="5dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Cuarenta"
                 android:textSize="15sp" />
 
             <TextView
@@ -503,7 +503,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Cincuenta"
                 android:textSize="15sp" />
 
             <TextView
@@ -511,10 +511,10 @@
                 android:layout_width="64dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="23dp"
-                android:layout_marginTop="-20dp"
+                android:layout_marginTop="-25dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Treinta"
                 android:textSize="15sp" />
             <!--______________________________________________________________________-->
 
@@ -556,7 +556,7 @@
                 android:layout_marginTop="-3dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Lajun ti' u kank'aal"
                 android:textSize="15sp" />
 
             <TextView
@@ -567,7 +567,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Kankáal"
                 android:textSize="15sp" />
 
             <TextView
@@ -578,7 +578,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Óoxkáal"
                 android:textSize="15sp" />
 
             <TextView
@@ -589,7 +589,7 @@
                 android:layout_marginTop="5dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Setenta"
                 android:textSize="15sp" />
 
             <TextView
@@ -600,7 +600,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Ochenta"
                 android:textSize="15sp" />
 
             <TextView
@@ -611,7 +611,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Sesenta"
                 android:textSize="15sp" />
 
 
@@ -638,7 +638,6 @@
                 fab:srcCompat="@drawable/diecinueve" />
 
 
-
             <TextView
                 android:id="@+id/tdieciocho"
                 android:layout_width="76dp"
@@ -647,18 +646,18 @@
                 android:layout_marginTop="-3dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Jo'ok'aal"
                 android:textSize="15sp" />
 
             <TextView
                 android:id="@+id/tdiesciocho2"
-                android:layout_width="64dp"
-                android:layout_height="wrap_content"
+                android:layout_width="97dp"
+                android:layout_height="42dp"
                 android:layout_marginLeft="23dp"
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Lajun ti' u jo'ok'aal"
                 android:textSize="15sp" />
 
             <TextView
@@ -669,7 +668,7 @@
                 android:layout_marginTop="5dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Cien"
                 android:textSize="15sp" />
 
             <TextView
@@ -680,7 +679,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Pronun"
+                android:text="Noventa"
                 android:textSize="15sp" />
 
 
