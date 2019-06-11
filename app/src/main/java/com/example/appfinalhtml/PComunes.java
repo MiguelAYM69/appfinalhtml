@@ -36,15 +36,6 @@ public class PComunes extends AppCompatActivity {
 
 
 
-        sonido= (ImageButton) findViewById(R.id.sonido);
-        comoestas= MediaPlayer.create(this, R.raw.comoestas);
-        sonido.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                comoestas.start();
-            }
-        });
-
         idos= (ImageButton) findViewById(R.id.idos);
         quehaces= MediaPlayer.create(this, R.raw.quehaces);
         idos.setOnClickListener(new View.OnClickListener() {
@@ -105,7 +96,7 @@ public class PComunes extends AppCompatActivity {
         iocho .setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                bueno.start( );
+                bueno.start();
             }
         });
 
@@ -133,7 +124,7 @@ public class PComunes extends AppCompatActivity {
         idoce.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                vamosacomer.start();
+                vamosacaminar.start();
             }
         });
 
