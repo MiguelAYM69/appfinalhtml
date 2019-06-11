@@ -64,8 +64,8 @@
 
             <TextView
                 android:id="@+id/trosado"
-                android:layout_width="76dp"
-                android:layout_height="wrap_content"
+                android:layout_width="93dp"
+                android:layout_height="37dp"
                 android:layout_marginLeft="245dp"
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
@@ -101,7 +101,7 @@
             <ImageButton
                 android:id="@+id/rojo"
                 android:layout_width="129dp"
-                android:layout_height="118dp"
+                android:layout_height="128dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
                 android:background="@android:color/transparent"
@@ -126,7 +126,7 @@
                 android:layout_marginTop="0dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Chak"
                 android:textSize="15sp" />
 
             <TextView
@@ -137,7 +137,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Boox"
                 android:textSize="15sp" />
 
             <TextView
@@ -148,7 +148,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Rojo"
                 android:textSize="15sp" />
 
             <TextView
@@ -159,7 +159,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Negro"
                 android:textSize="15sp" />
 
 
@@ -199,13 +199,13 @@
 
             <TextView
                 android:id="@+id/tgris"
-                android:layout_width="76dp"
-                android:layout_height="wrap_content"
+                android:layout_width="93dp"
+                android:layout_height="35dp"
                 android:layout_marginLeft="245dp"
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Bòonil ch'o' "
                 android:textSize="15sp" />
 
             <TextView
@@ -216,7 +216,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Morado"
                 android:textSize="15sp" />
 
             <TextView
@@ -227,7 +227,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Gris"
                 android:textSize="15sp" />
 
 
@@ -273,7 +273,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Sak"
                 android:textSize="15sp" />
 
             <TextView
@@ -284,7 +284,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Café"
                 android:textSize="15sp" />
 
             <TextView
@@ -295,7 +295,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Blanco"
                 android:textSize="15sp" />
 
 
@@ -330,7 +330,7 @@
                 android:layout_marginTop="13dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Ch'ooj"
                 android:textSize="15sp" />
 
             <TextView
@@ -341,7 +341,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="K'an"
                 android:textSize="15sp" />
 
             <TextView
@@ -352,7 +352,7 @@
                 android:layout_marginTop="2dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Azul"
                 android:textSize="15sp" />
 
             <TextView
@@ -363,7 +363,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Español"
+                android:text="Amarillo"
                 android:textSize="15sp" />
 
 

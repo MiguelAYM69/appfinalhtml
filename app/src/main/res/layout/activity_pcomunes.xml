@@ -48,11 +48,17 @@
 -Biix yaanikech"
                 android:textSize="25sp" />
 
-            <ImageButton
-                android:id="@+id/sonido1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                fab:srcCompat="@drawable/a" />
+            <ImageView
+                android:id="@+id/sonido"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
 
             <TextView
                 android:id="@+id/texto2"
@@ -69,6 +75,18 @@
 -Ba'ax ka beetik"
                 android:textSize="25sp" />
 
+            <ImageView
+                android:id="@+id/idos"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
             <TextView
                 android:id="@+id/texto3"
                 android:layout_width="225dp"
@@ -83,6 +101,18 @@
                 android:text="-Buenos días \n
 -Ma'alob kiin"
                 android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/itres"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
 
 
             <TextView
@@ -100,6 +130,18 @@
 -Ma'alob a'ak'ab"
                 android:textSize="25sp" />
 
+            <ImageView
+                android:id="@+id/icuatro"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
             <TextView
                 android:id="@+id/texto5"
                 android:layout_width="300dp"
@@ -115,6 +157,17 @@
 -Ma'alob chiinil k'iin"
                 android:textSize="25sp" />
 
+            <ImageView
+                android:id="@+id/icinco"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
             <TextView
                 android:id="@+id/texto6"
                 android:layout_width="300dp"
@@ -129,6 +182,18 @@
                 android:text="-Gracias \n
 -Dios bo'otik"
                 android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/iseis"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
 
 
             <TextView
@@ -146,6 +211,19 @@
 -Ma'"
                 android:textSize="25sp" />
 
+            <ImageView
+                android:id="@+id/isiete"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
+
 
             <TextView
                 android:id="@+id/texto8"
@@ -161,6 +239,18 @@
                 android:text="-Bueno \n
 -Ma'alob"
                 android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/iocho"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
 
 
             <TextView
@@ -178,6 +268,18 @@
 -In yaabilmech"
                 android:textSize="25sp" />
 
+            <ImageView
+                android:id="@+id/inueve"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
 
             <TextView
                 android:id="@+id/texto11"
@@ -193,6 +295,18 @@
                 android:text="-Amigos \n
 -Láak' tsile 'ex"
                 android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/ionce"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
 
 
             <TextView
@@ -210,6 +324,18 @@
 -Ko'ox xlimbal"
                 android:textSize="25sp" />
 
+            <ImageView
+                android:id="@+id/idoce"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
             <TextView
                 android:id="@+id/texto13"
                 android:layout_width="300dp"
@@ -224,6 +350,18 @@
                 android:text="-Vamos a comer  \n
 -Ko'ox jaanal"
                 android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/itrece"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
 
             <TextView
                 android:id="@+id/texto14"
@@ -240,6 +378,18 @@
 -Taak'in wuk'ik ja'"
                 android:textSize="25sp" />
 
+            <ImageView
+                android:id="@+id/icatorce"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
+
             <TextView
                 android:id="@+id/texto15"
                 android:layout_width="300dp"
@@ -254,6 +404,18 @@
                 android:text="-Aquí es  \n
 -Wayanene'"
                 android:textSize="25sp" />
+
+            <ImageView
+                android:id="@+id/iquince"
+                android:layout_width="69dp"
+                android:layout_height="74dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="27dp"
+                android:layout_marginRight="27dp"
+                fab:srcCompat="@drawable/audio" />
 
 
         </LinearLayout>
