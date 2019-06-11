@@ -17,18 +17,18 @@
 
             <TextView
                 android:id="@+id/textView2"
-                android:layout_width="191dp"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="75dp"
                 android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
                 android:layout_marginStart="88dp"
+                android:layout_marginLeft="80dp"
                 android:layout_marginTop="47dp"
                 android:fontFamily="sans-serif-black"
                 android:text="PARTES DEL CUERPO"
                 android:textColor="@android:color/white"
-                android:textSize="30sp"
-                android:layout_alignParentLeft="true"
-                android:layout_marginLeft="88dp" />
+                android:textSize="30sp" />
 
             <ImageButton
                 android:id="@+id/imano"
