@@ -50,9 +50,10 @@
 
             <ImageButton
                 android:id="@+id/sonido1"
-                android:layout_width="match_parent"
+                android:layout_width="149dp"
                 android:layout_height="wrap_content"
-                fab:srcCompat="@drawable/a" />
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
             <TextView
                 android:id="@+id/texto2"
@@ -69,6 +70,13 @@
 -Ba'ax ka beetik"
                 android:textSize="25sp" />
 
+            <ImageButton
+                android:id="@+id/sonido2"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
+
             <TextView
                 android:id="@+id/texto3"
                 android:layout_width="225dp"
@@ -83,6 +91,12 @@
                 android:text="-Buenos días \n
 -Ma'alob kiin"
                 android:textSize="25sp" />
+            <ImageButton
+                android:id="@+id/sonido3"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
 
             <TextView
@@ -100,6 +114,13 @@
 -Ma'alob a'ak'ab"
                 android:textSize="25sp" />
 
+            <ImageButton
+                android:id="@+id/sonido4"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
+
             <TextView
                 android:id="@+id/texto5"
                 android:layout_width="300dp"
@@ -115,21 +136,12 @@
 -Ma'alob chiinil k'iin"
                 android:textSize="25sp" />
 
-            <TextView
-                android:id="@+id/texto6"
-                android:layout_width="300dp"
-                android:layout_height="77dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentLeft="true"
-                android:layout_alignParentTop="true"
-                android:layout_marginStart="33dp"
-                android:layout_marginLeft="33dp"
-                android:layout_marginTop="50dp"
-                android:fontFamily="sans-serif-black"
-                android:text="-Gracias \n
--Dios bo'otik"
-                android:textSize="25sp" />
-
+            <ImageButton
+                android:id="@+id/sonido5"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
             <TextView
                 android:id="@+id/texto7"
@@ -145,6 +157,13 @@
                 android:text="-No \n
 -Ma'"
                 android:textSize="25sp" />
+
+            <ImageButton
+                android:id="@+id/sonido7"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
 
             <TextView
@@ -162,6 +181,14 @@
 -Ma'alob"
                 android:textSize="25sp" />
 
+            <ImageButton
+                android:id="@+id/sonido8"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
+
+
 
             <TextView
                 android:id="@+id/texto9"
@@ -177,6 +204,12 @@
                 android:text="-Te amo \n
 -In yaabilmech"
                 android:textSize="25sp" />
+            <ImageButton
+                android:id="@+id/sonido9"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
 
             <TextView
@@ -193,7 +226,12 @@
                 android:text="-Amigos \n
 -Láak' tsile 'ex"
                 android:textSize="25sp" />
-
+            <ImageButton
+                android:id="@+id/sonido10"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
             <TextView
                 android:id="@+id/texto12"
@@ -210,6 +248,13 @@
 -Ko'ox xlimbal"
                 android:textSize="25sp" />
 
+            <ImageButton
+                android:id="@+id/sonido11"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
+
             <TextView
                 android:id="@+id/texto13"
                 android:layout_width="300dp"
@@ -224,6 +269,13 @@
                 android:text="-Vamos a comer  \n
 -Ko'ox jaanal"
                 android:textSize="25sp" />
+
+            <ImageButton
+                android:id="@+id/sonido12"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
             <TextView
                 android:id="@+id/texto14"
@@ -240,6 +292,15 @@
 -Taak'in wuk'ik ja'"
                 android:textSize="25sp" />
 
+
+            <ImageButton
+                android:id="@+id/sonido13"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
+
+
             <TextView
                 android:id="@+id/texto15"
                 android:layout_width="300dp"
@@ -254,7 +315,12 @@
                 android:text="-Aquí es  \n
 -Wayanene'"
                 android:textSize="25sp" />
-
+            <ImageButton
+                android:id="@+id/sonido14"
+                android:layout_width="149dp"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                fab:srcCompat="@drawable/sonido" />
 
         </LinearLayout>
 
