@@ -423,16 +423,6 @@
             tools:src="@drawable/palabras" />
 
 
-        <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Abecedario24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="AbecedarioIntent"
-            android:src="@drawable/abecedario"
-            fab:fab_colorNormal="#FF699F"
-            fab:fab_label="Abecedario"
-            fab:fab_size="mini"
-            tools:src="@drawable/abecedario"  />
 
 
 
