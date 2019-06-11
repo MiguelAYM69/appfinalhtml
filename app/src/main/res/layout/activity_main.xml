@@ -69,7 +69,7 @@
                 android:layout_marginTop="-20dp"
                 android:background="@android:color/transparent"
                 android:fontFamily="sans-serif-black"
-                android:text="Maya"
+                android:text="Moo"
                 android:textSize="15sp" />
 
             <TextView
