@@ -363,41 +363,7 @@
                 android:textSize="15sp" />
             <!--____________________________________________________________-->
 
-            <ImageButton
-                android:id="@+id/icuello"
-                android:layout_width="151dp"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="10dp"
-                android:background="@android:color/transparent"
-                android:src="@drawable/cuello"
-                android:text="Button"  />
 
-
-
-            <TextView
-                android:id="@+id/tcuello"
-                android:layout_width="76dp"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="60dp"
-                android:layout_marginTop="12dp"
-                android:background="@android:color/transparent"
-                android:fontFamily="sans-serif-black"
-                android:text="kaal"
-                android:textSize="15sp" />
-
-
-
-            <TextView
-                android:id="@+id/tcuello2"
-                android:layout_width="76dp"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="60dp"
-                android:layout_marginTop="2dp"
-                android:background="@android:color/transparent"
-                android:fontFamily="sans-serif-black"
-                android:text="Cuello"
-                android:textSize="15sp" />
 
 
         </LinearLayout>
@@ -457,16 +423,6 @@
             tools:src="@drawable/palabras" />
 
 
-        <com.github.clans.fab.FloatingActionButton
-            android:id="@+id/Abecedario24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="AbecedarioIntent"
-            android:src="@drawable/abecedario"
-            fab:fab_colorNormal="#FF699F"
-            fab:fab_label="Abecedario"
-            fab:fab_size="mini"
-            tools:src="@drawable/abecedario"  />
 
 
 

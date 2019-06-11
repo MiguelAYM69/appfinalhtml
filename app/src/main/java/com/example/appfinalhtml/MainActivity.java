@@ -150,9 +150,9 @@ pez= (ImageButton) findViewById(R.id.pez);
         startActivity(a);
         finish();
 
-
-
     }
+
+
 
     public void pcuerpoIntent(View view) {
         Intent a = new Intent(MainActivity.this,PPartes.class);
