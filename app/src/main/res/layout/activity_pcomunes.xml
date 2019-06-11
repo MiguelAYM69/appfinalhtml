@@ -293,7 +293,7 @@
                 android:layout_marginTop="50dp"
                 android:fontFamily="sans-serif-black"
                 android:text="-Amigos \n
--La'ak' tsile 'ex"
+-Láak' tsile 'ex"
                 android:textSize="25sp" />
 
             <ImageView
