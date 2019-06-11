@@ -27,6 +27,11 @@ public class Principal extends AppCompatActivity {
 
     }
 
+    public void AbecedarioIntent(View view) {
+        Intent a = new Intent(Principal.this,Abecedario.class);
+        startActivity(a);
+
+    }
 
     public void pcuerpoIntent(View view) {
         Intent a = new Intent(Principal.this,PPartes.class);

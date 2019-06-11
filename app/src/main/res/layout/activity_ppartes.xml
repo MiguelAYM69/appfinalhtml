@@ -17,18 +17,18 @@
 
             <TextView
                 android:id="@+id/textView2"
-                android:layout_width="wrap_content"
-                android:layout_height="75dp"
+                android:layout_width="191dp"
+                android:layout_height="wrap_content"
                 android:layout_alignParentStart="true"
-                android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
                 android:layout_marginStart="88dp"
-                android:layout_marginLeft="80dp"
                 android:layout_marginTop="47dp"
                 android:fontFamily="sans-serif-black"
                 android:text="PARTES DEL CUERPO"
                 android:textColor="@android:color/white"
-                android:textSize="30sp" />
+                android:textSize="30sp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="88dp" />
 
             <ImageButton
                 android:id="@+id/imano"
@@ -364,7 +364,7 @@
             <!--____________________________________________________________-->
 
             <ImageButton
-                android:id="@+id/idcuello"
+                android:id="@+id/icuello"
                 android:layout_width="151dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
@@ -455,6 +455,20 @@
             fab:fab_label="Palabras comúnes"
             fab:fab_size="mini"
             tools:src="@drawable/palabras" />
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/Abecedario24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="AbecedarioIntent"
+            android:src="@drawable/abecedario"
+            fab:fab_colorNormal="#FF699F"
+            fab:fab_label="Abecedario"
+            fab:fab_size="mini"
+            tools:src="@drawable/abecedario"  />
+
+
 
 
         <com.github.clans.fab.FloatingActionButton
