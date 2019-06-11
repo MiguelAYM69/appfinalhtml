@@ -105,7 +105,7 @@ public class PComunes extends AppCompatActivity {
         iocho .setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                bueno.start();
+                bueno.start( );
             }
         });
 
